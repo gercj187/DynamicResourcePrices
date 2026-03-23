@@ -1,0 +1,11 @@
+{
+	"Id": "DynamicResourcePrices",
+	"Version": "1.00.0",
+	"DisplayName": "DynamicResourcePrices",
+	"Author": "CJ187",
+	"Credits": "Coookie, NotAnOption and ChatGPT",
+	"EntryMethod": "DynamicResourcePrices.Main.Load",
+	"ManagerVersion": "0.27.2",
+	"HomePage": "https://www.nexusmods.com/derailvalley/mods/1459",
+	"Repository": "https://raw.githubusercontent.com/gercj187/DynamicResourcePrices/refs/heads/main/repository.json"
+}
